@@ -30,7 +30,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
@@ -48,7 +48,7 @@
           },
           "title": "WELCOME TO CANNAVIV™",
           "text": "Legal Adult Use + Medical Cannabis Solutions",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MISSION</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://nudcohen.github.io/Cannavivsite/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">mobile site</a> ",
           "_tags": [
             "Theme"
           ],
